@@ -8,5 +8,6 @@ namespace Threading
 {
     public class Class1
     {
+		public int i = 5;
     }
 }
